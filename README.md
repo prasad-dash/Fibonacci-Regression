@@ -10,7 +10,9 @@ Fn+1=(1.618)Fn+0
 Library used:
 
   *Scikit Learn
+  
   *numpy
+  
   *matplotlib.pyplot
   
   
