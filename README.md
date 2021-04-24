@@ -9,11 +9,11 @@ Fn+1=(1.618)Fn+0
 
 Library used:
 
-  *Scikit Learn
+  * Scikit Learn
   
-  *numpy
+  * numpy
   
-  *matplotlib.pyplot
+  * matplotlib.pyplot
   
   
 During the fit process I first tried with first 100 fibonacci numbers but got a bad result for first 10 numbers.
