@@ -8,6 +8,7 @@ I tried to model this relation using a linear regression in the form:
 Fn+1=(1.618)Fn+0
 
 Library used:
+
   -Scikit Learn
   -numpy
   -matplotlib.pyplot
